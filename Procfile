@@ -1,0 +1,1 @@
+web: gunicorn disney_movies.app:app
